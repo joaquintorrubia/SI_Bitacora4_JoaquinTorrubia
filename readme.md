@@ -25,3 +25,9 @@ He creado un documento doc llamado Memoria_Tecnica_SI_Torrubia
 Le he puesto una portada con su titulo, mi nombre, profe, asigantura, ciclo y fecha.
 
 Le he puesto un indice, los apartados estan divididos ewn secciones Titulo 1
+
+# Tarea 3
+
+He escrito en el documento el problema que hay entre docker y Apache Guacamole
+
+Centralizacio, Ahorro de recursos...

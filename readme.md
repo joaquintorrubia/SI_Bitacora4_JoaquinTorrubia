@@ -13,7 +13,15 @@ Cuando puse ssh alumno@localhost -p 2222 me salia este error.
 
 Así que, lo solucione con ssh alumno@127.0.0.1 -p 2222. Poniendo la ip
 
-# license.md Tarea 1
+# Tarea 1
 He creado license.md
 
 He puesto la informacion de cada infraestructura que utilizo en el repositorio, licencias, tipo y enlace.
+
+# Tarea 2
+
+He creado un documento doc llamado Memoria_Tecnica_SI_Torrubia
+
+Le he puesto una portada con su titulo, mi nombre, profe, asigantura, ciclo y fecha.
+
+Le he puesto un indice, los apartados estan divididos ewn secciones Titulo 1
